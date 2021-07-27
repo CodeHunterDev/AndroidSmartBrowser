@@ -21,3 +21,8 @@
 1. Get all Available updates of **Smart Android Browser Source Code** via Telegram Channel.
 2. All Information About Smart Android Browser.
 ##### [Join Telegram channel](https://t.me/LeafExplorer)</br>
+
+##### PayPal Method [Donate]
+<a href="http://paypal.me/premium813" target="_blank" title="Buy me a Coffee"><img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://github.com/mjbdl/Premium-SmartWebView/blob/master/app/donate-now-button-n-dim-300x162.jpg" border="0" alt="Donate to support Smart Browser" /></a>
+##### UPI id :- leafexplorer-github@ybl 
+     *Donate with UPI.*
