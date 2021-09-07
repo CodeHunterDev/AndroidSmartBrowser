@@ -20,7 +20,7 @@
 ### Join Telegram
 1. Get all Available updates of **Android Smart Browser Source Code** via Telegram Channel.
 2. All Information About Android Smart Browser.
-##### [Join Telegram channel](https://t.me/LeafExplorer)</br>
+##### [Join Telegram channel](https://t.me/Shiv_Shambhu_Github)</br>
 
 ## Donation 💚
 If this project help you reduce time to develop, you can give me a cup of coffee :)
